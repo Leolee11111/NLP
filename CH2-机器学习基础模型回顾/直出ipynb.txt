@@ -1,0 +1,3 @@
+复制下面这条链接在浏览器打开，即可直接查看ipynb文档（手机也可以哦）
+
+https://nbviewer.jupyter.org/urls/gitee.com/alvinfa/temp_repo/raw/master/CH2-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%E5%9B%9E%E9%A1%BE/%E7%AC%AC%E4%BA%8C%E7%AB%A0/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.ipynb
